@@ -187,3 +187,15 @@ rpc nodes require [nginx configuration](https://gist.github.com/hskang9/b96e873f
 # Demo
 
 ![](./demo.png)
+
+# ToDo
+
+set compounding period (continuous, daily, monthly, quarterly, yearly etc)
+
+choice between simple or compounding interest rate
+
+bond dealing system
+
+bidding or counter-bidding system
+
+bond pricing model
